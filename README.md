@@ -5,8 +5,8 @@ This project is centered around analyzing song titles from a Spotify dataset to 
 
 *  Text Preprocessing: Text cleaning techniques are applied to the song titles, removing special characters, digits, and stop words to normalize the text data. Performed additional preprocessing steps like lemmatization to enhance accuracy.
 
-*  Visualization: Created visualizations such as histograms and word clouds to explore common words in song titles.
-
 *  Popularity Analysis: Investigated The relationship between specific words in track names and song popularity. Compare the average popularity of songs containing the word "love"  and without it.
-*  
+
+*  Visualization: Created visualizations such as histograms and word clouds to explore common words in song titles.
+  
 ![image](https://github.com/VeronikaLoiko/Textual-Analysis-of-Song-Titles/assets/170975901/1b93c352-b211-489c-ab56-8968215d3283)
